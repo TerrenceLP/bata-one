@@ -1,6 +1,7 @@
 !plugins/
 plugins/*
 !plugins/enqueue-anything
+!plugins/private-repo
 
 themes/
 uploads/
